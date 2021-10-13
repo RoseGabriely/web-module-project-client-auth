@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  background-color: #f2e9e4;
+  height: 100vh;
+}
+nav {
+  margin-bottom: 1rem;
+  display: flex;
+  justify-content: center;
+  background-color: #c9ada7;
+}
+.link {
+  padding: 0.5rem;
+  color: #22223b;
+  text-decoration: none;
+  background-color: #9a8c98;
+  margin: 1rem;
+  width: 4rem;
+  font-size: 1rem;
+  font-weight: 500;
+}
+.link:hover {
+  transition: 0.4s;
+  background-color: #ad9fab;
+}
